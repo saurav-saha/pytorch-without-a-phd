@@ -12,14 +12,14 @@
 </table>
 <br/>
 
-## Tensorflow and deep learning without a PhD series by [@martin_gorner](https://twitter.com/martin_gorner).
+## Pytorch and deep learning without a PhD series by [@sahasourav](https://twitter.com/sahasourav).
 
 A crash course in six episodes for software developers who want to learn machine learning, with examples, theoretical concepts,
 and engineering tips, tricks and best practices to build and train the neural networks that solve your problems.
 
 <table width="100%">
     <tr>
-        <td width="50%"><img alt="Tensorflow and deep learning without a PhD" src="docs/images/flds1.png"/></td>
+        <td width="50%"><img alt="Pytorch and deep learning without a PhD" src="docs/images/flds1.png"/></td>
         <td width="50%">
             <div align="center">
                      <a href="https://youtu.be/u4alGiomYP4">video</a> |
@@ -40,7 +40,7 @@ and engineering tips, tricks and best practices to build and train the neural ne
         <td width="50%"><img alt="The superpower: batch normalization" src="docs/images/flds2.png"/></td>
     </tr>
     <tr>
-        <td border=0 width="50%"><img alt="Tensorflow, deep learning and recurrent neural networks, without a PhD" src="docs/images/flds3.png"/></td>
+        <td border=0 width="50%"><img alt="Pytorch, deep learning and recurrent neural networks, without a PhD" src="docs/images/flds3.png"/></td>
         <td border=0 width="50%">
             <div align="center">
                  <a href="https://youtu.be/fTUwdXUFfI8">video</a> |
@@ -64,7 +64,7 @@ and engineering tips, tricks and best practices to build and train the neural ne
         <td width="50%"><img alt="Tensorflow, deep learning and modern convnets, without a PhD" src="docs/images/flds4.png"/></td>
     </tr>
     <tr>
-            <td border=0 width="50%"><img alt="Tensorflow, deep learning and modern RNN architectures, without a PhD" src="docs/images/flds5.png"/></td>
+            <td border=0 width="50%"><img alt="Pytorch, deep learning and modern RNN architectures, without a PhD" src="docs/images/flds5.png"/></td>
             <td border=0 width="50%">
                 <div align="center">
                      <a href="https://youtu.be/pzOzmxCR37I">video</a> |
@@ -95,21 +95,21 @@ and engineering tips, tricks and best practices to build and train the neural ne
     <tr><td colspan="4">Quick access to all code samples:</td></tr>
     <tr>
         <td width="33%">
-                    <b><a href="tensorflow-mnist-tutorial">tensorflow-mnist-tutorial</a></b><br/>
+                    <b><a href="pytorch-mnist-tutorial">tensorflow-mnist-tutorial</a></b><br/>
                     dense and convolutional neural network tutorial
                 </td>
         <td width="33%">
-            <b><a href="tensorflow-rnn-tutorial">tensorflow-rnn-tutorial</a></b><br/>
+            <b><a href="pytorch-rnn-tutorial">tensorflow-rnn-tutorial</a></b><br/>
             recurrent neural network tutorial using temperature series
         </td>
         <td width="33%">
-            <b><a href="tensorflow-rl-pong">tensorflow-rl-pong</a></b><br/>
+            <b><a href="pytorch-rl-pong">tensorflow-rl-pong</a></b><br/>
             "pong" with reinforcement learning
         </td>
     </tr>
     <tr>
     <td width="33%">
-        <b><a href="tensorflow-planespotting">tensorflow-planespotting</a></b><br/>
+        <b><a href="pytorch-planespotting">tensorflow-planespotting</a></b><br/>
         airplane detection model
     </td>
     <td width="33%">
