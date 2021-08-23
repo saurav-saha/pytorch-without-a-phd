@@ -14,8 +14,9 @@
 
 ## Pytorch and deep learning without a PhD series by [@sahasourav](https://twitter.com/sahasourav).
 
-A crash course in six episodes for software developers who want to learn machine learning, with examples, theoretical concepts,
+A crash course in pytorch for software developers who want to learn machine learning, with examples, theoretical concepts,
 and engineering tips, tricks and best practices to build and train the neural networks that solve your problems.
+This has been inspired and forked from the popular Tensorflow and deep leanring without a PhD series
 
 <table width="100%">
     <tr>
